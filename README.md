@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sayyadrehan09&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=sayyadrehan09&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -18,20 +18,9 @@
 
 🎓 3rd Year B.Tech Computer Science Student
 
-🌱 Currently Learning
+💻 Passionate about Full Stack Development and solving Data Structures & Algorithms problems.
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- AWS
-- Three.js
-
-💻 Solving DSA every day
-
-🚀 Building Full Stack Projects
-
-📍 Nagpur, Maharashtra, India
+🚀 Building projects to improve my skills and create a strong developer portfolio.
 
 ---
 
@@ -46,11 +35,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sayyadrehan09&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyadrehan09&layout=compact&theme=tokyonight"/>
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sayyadrehan09&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyadrehan09&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -58,25 +44,23 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sayyadrehan09&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=sayyadrehan09&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Graph
 
-[![Rehan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayyadrehan09&theme=react-dark)](https://github.com/sayyadrehan09)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayyadrehan09&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sayyadrehan09&theme=tokyonight&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=sayyadrehan09&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -85,43 +69,14 @@
 
 ### 🌌 Solar System Visualizer
 
-Interactive 3D Solar System built with React Three Fiber.
+Interactive 3D Solar System built using React Three Fiber.
 
-### 📈 DevTracker AI
 
-AI-powered developer portfolio and GitHub tracker.
 
-### 💻 More Projects Coming Soon...
 
 ---
 
-# 📚 Currently Learning
-
-- 🌱 Full Stack Development
-- ⚛️ React
-- 🟢 Node.js
-- ☁️ AWS
-- 🌌 Three.js
-- 📊 MongoDB
-- 🧠 Data Structures & Algorithms
-
----
-
-# 🎯 Goals for 2026
-
-✅ Master Full Stack Development
-
-✅ Become a Strong DSA Problem Solver
-
-✅ Build 15+ Portfolio Projects
-
-✅ Contribute to Open Source
-
-✅ Land a Software Engineering Internship
-
----
-
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -131,26 +86,26 @@ AI-powered developer portfolio and GitHub tracker.
 
 &nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/sayyad-rehan-175549321/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sayyadrehan5483@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
+<p align="center">
+
+📧 <b>Email:</b> sayyadrehan5483@gmail.com
+
+🔗 <b>LinkedIn:</b> https://www.linkedin.com/in/sayyad-rehan-175549321/
+
+</p>
+
 ---
 
-# 💻 Favorite Quote
-
-> "First, solve the problem. Then, write the code."
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
